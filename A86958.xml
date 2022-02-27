@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter lately sent by a reverend bishop from the Tovver, to a private friend and by him thought fit to be published.</title>
+            <author>Hall, Joseph, 1574-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86958</idno>
+            <idno type="STC">Wing H391</idno>
+            <idno type="STC">ESTC R202352</idno>
+            <idno type="EEBO-CITATION">99895212</idno>
+            <idno type="PROQUEST">99895212</idno>
+            <idno type="VID">152664</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86958)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152664)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2312:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter lately sent by a reverend bishop from the Tovver, to a private friend and by him thought fit to be published.</title>
+                  <author>Hall, Joseph, 1574-1656.</author>
+                  <author>H. S.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nath: Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 6: Jo: Norvic., i.e. Joseph Hall.</note>
+                  <note>In defence of his conduct in the diocese of Norwich.</note>
+                  <note>With a reply from the friend signed: H.S.</note>
+                  <note>"Second edition?"--McAlpin.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hall, Joseph, 1574-1656 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152664:1"/>
+            <!-- PDF PAGE 116 -->
+            <p>A LETTER Lately ſent by A Reverend Biſhop FROM THE TOVVER, TO A PRIVATE FRIEND: <hi>AND</hi> By him thought fit to be publiſhed.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for NATH: BUTTER. <hi>MDCXLII.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:152664:2"/>
+            <!-- PDF PAGE 117 -->
+            <pb n="1" facs="tcp:152664:2"/>
+            <!-- PDF PAGE 117 -->
+            <head>TO MY MVCH RESPECTED GOOD FRIEND, M<hi rend="sup">r</hi> 
+               <hi>H. S.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou think it ſtrange that I ſhould ſalute you from hence; how can you chooſe, when I doe yet ſtill wonder to ſee my ſelfe here? My intentions and this place are ſuch ſtran<g ref="char:EOLhyphen"/>gers, that I cannot enough marvell how they met. But, howſoever, I doe in all hu<g ref="char:EOLhyphen"/>mility kiſſe the rod, wherewith I ſmart, as well knowing whoſe hand it is that wields it; To that infinite juſtice who can be innocent? But to my King and Countrey ne<g ref="char:EOLhyphen"/>ver heart was, or can be more cleare; and I ſhall beſhrew my hand if it ſhall have (againſt my thoughts) juſtly of<g ref="char:EOLhyphen"/>fended either; and if either ſay ſo, I reply not; as having learned not to conteſt with thoſe that can command Legions.</p>
+            <p>In the meane time it is a kind, but a cold complement, that you pity me; an affection well placed where a man deſerves to bee miſerable; for me, I am not conſcious of ſuch merit. You tell mee in what faire termes I ſtood not long ſince, with the world; how large roome I had in the hearts of the beſt men: But can you tell me how I loſt it? Truly I have in the preſence of my God narrowly ſearcht my own boſome; I have unpartially ranſackt this fag-end
+<pb n="2" facs="tcp:152664:3"/>
+               <!-- PDF PAGE 118 -->of my life, and curiouſly examined every ſtep of my wayes; and I cannot, by the moſt exact ſcrutiny of my ſaddeſt thoughts, finde what it is that I have done to forfeit that good eſtimation, wherewith, you ſay, I was once bleſſed.</p>
+            <p>I can ſecretly arraign and condemne my ſelfe of infinite tranſgreſſions, before the Tribunal of heaven: Who, that dwels in an houſe of clay, can be pure in his ſight, that char<g ref="char:EOLhyphen"/>geth his Angels with folly? O God when I looke upon the reckonings betwixt Thee &amp; my ſoul, &amp; find my ſhamefull areres, I can be moſt vile in my owne ſight, becauſe I have deſerved to bee ſo in thine: Yet, even then, in thy moſt pure eyes, give mee leave, the whiles, not to abdicate my ſincerity; thou knoweſt my heart deſires to bee right with thee, what ever my failings may have beene; and I know what value thou putteſt upon thoſe ſincere de<g ref="char:EOLhyphen"/>ſires, notwithſtanding all the intermixtures of our miſe<g ref="char:EOLhyphen"/>rable infirmities: Theſe I can penitently bewaile to thee; but in the meane time, what have I done to men? Let them not ſpare to ſhame me with the late ſinfull declinations of my age, and fetch bluſhes (if they can) from a wrinkled face.</p>
+            <p>Let mine enemies (for ſuch I perceive I have, and thoſe are the ſureſt monitors) ſay what I have offended; For their better irritation my clear conſcience bids me boldly to take up the challenge of good <hi>Samuel, Behold, here I am; wit<g ref="char:EOLhyphen"/>witneſſe againſt me before the Lord, and before his Anointed; Whoſe Oxe have I taken? or whoſe Aſſe have I taken? or whom have I defrauded? whom have I oppreſſed? or of whoſe hand have I received any bribe to blind mine eyes therewith? and I will reſtore it you.</hi>
+            </p>
+            <p>Can they ſay that I bore up the reyns of government too hard; and exerciſed my juriſdiction in a rigorous and tyran<g ref="char:EOLhyphen"/>nicall way, inſolently Lording it over my charge? Malice it ſelf, perhaps, would, but dare not ſpeake it; or, if it ſhould, the atteſtation of ſo grave and numerous a Clergie would choake ſuch impudence; let them witneſſe, whether they were not ſtill entertained by me with an equall returne of
+<pb n="3" facs="tcp:152664:3"/>
+               <!-- PDF PAGE 118 -->reverence, as if they had beene all Biſhops with me, or I onely a Presbyter with them; according to the old rule of <hi>Egbert,</hi> Arch-biſhop of <hi>York; Intra domum Epiſcopus col<g ref="char:EOLhyphen"/>legam ſe presbyterorum eſſe cognoſcat;</hi> Let them ſay, whe<g ref="char:EOLhyphen"/>ther ought here looked like deſpotical, or ſounded rather of imperious commands, then of brotherly complying; whe<g ref="char:EOLhyphen"/>ther I have not rather from ſome beholders, undergone the cenſure of a too humble remiſneſſe; as perhaps ſtooping too low beneath the eminence of Epiſcopal dignity; whe<g ref="char:EOLhyphen"/>ther I have not ſuffered as much in ſome opinions, for the winning mildneſſe of my adminiſtration, as ſome others for a rough ſeverity.</p>
+            <p>Can they ſay (for this aſperſion is likewiſe common) that I barred the free courſe of religious exerciſes, by the ſup<g ref="char:EOLhyphen"/>preſſion of painfull and peaceable Preachers? If ſhame wil ſuffer any man to object it, let me challenge him to inſtance but in one name; Nay, the contrary is ſo famouſly known in the Weſterne parts, that every mouth will herein juſtifie me. What free admiſſion and incouragement have I al<g ref="char:EOLhyphen"/>waies given to all the Sons of peace, that came with Gods meſſage in their mouthes? What miſ-ſuggeſtions have I waved? What blowes have I borne off in the behalfe of ſome of them, from ſome gain-ſayers? How have I often and publiquely profeſſed, that as well might we complain of too many ſtars in the skie, as too many Orthodox Prea<g ref="char:EOLhyphen"/>chers in the Church?</p>
+            <p>Can they complaine that I fretted the necks of my Cler<g ref="char:EOLhyphen"/>gie with the uneaſie yoake of new and illegall impoſitions? Let them whom I have thus hurt, blazon my unjuſt ſeveri<g ref="char:EOLhyphen"/>ty, and write their wrongs in marble: But, if diſliking all novel devices, I have held cloſe to thoſe ancient rules which limited the obedience of our godly predeceſſors; If I have grated upon no mans conſcience by the preſ<g ref="char:EOLhyphen"/>ſure (no not by the tender) of the late Oath, or any unpreſcribed Ceremonie; If I have freely in the Com<g ref="char:EOLhyphen"/>mittee, appointed by the moſt honourable Houſe of Peeres, declared my open diſlike of all innovations,
+<pb n="4" facs="tcp:152664:4"/>
+               <!-- PDF PAGE 119 -->both in Doctrine and rites, why doth my innocence ſuffer?</p>
+            <p>Can they challenge me as a cloſe and back-ſtaire-friend to Popery or Arminianiſme, who have in ſo many Pulpits, and ſo many Preſſes, cryed downe both? Surely the very paper that I have ſpent in the refutation of both theſe, is e<g ref="char:EOLhyphen"/>nough to ſtop more mouthes then can be guilty of this ca<g ref="char:EOLhyphen"/>lumnie.</p>
+            <p>Can they check me with a lazie ſilence in my place, with infrequence of preaching? Let the populous Auditories where I have lived, witneſſe, whether having furniſhed all the Churches neere me with able Preachers, I tooke not all oportunities of ſupplying ſuch courſes, as I could get, in my Cathedrall; and when my tongue was ſilent, let the world ſay whether my hand were idle.</p>
+            <p>Laſtly, ſince no man can offer to upbraid mee with too much pompe, which is wont to be the common eye<g ref="char:EOLhyphen"/>ſore of our envied profeſſion: Can any man pretend to a ground of taxing me (as I perceive one of late hath moſt unjuſtly done) of too much worldlyneſſe? Surely, of all the vices forbidden in the Decalogue, there is no one which my heart upon due examination can leſſe faſten up<g ref="char:EOLhyphen"/>on me then this: He that made it, knowes that hee hath put into it a true diſregard (ſave onely for neceſſary uſe) of the world, and of all that it can boaſt of, whether for profit, pleaſure, or glory.</p>
+            <p>No, no; I know the world too wel to dote upon it; whiles I am in it, how can I but uſe it? but I never care, never yeeld to enjoy it. It were too great a ſhame for a Philoſopher, a Chriſtian, a Divine, a Biſhop to have his thoughts groveling here upon earth; for mine, they ſcorne the imployment; and looke upon all theſe ſublunary diſtractions (as upon this mans falſe cenſure) with no other eyes then contempt.</p>
+            <p>And now, Sir, ſince I cannot (how ſecretly faulty ſoever) gueſſe at my owne publique exorbitances, I beſeech you, where you heare my name traduced, learne of mine accu<g ref="char:EOLhyphen"/>ſers (whoſe Lyncean eyes would ſeeme to ſee farther
+<pb n="5" facs="tcp:152664:4"/>
+               <!-- PDF PAGE 119 -->into me then my own) what ſingular offence I have com<g ref="char:EOLhyphen"/>mitted.</p>
+            <p>If perhaps my calling be my crime; It is no other then the moſt holy Fathers of the Church in the Primitive and ſucceeding Ages, ever ſince the Apoſtles, (many of them alſo bleſſed Martyrs) have been guilty of; it is no other then all the holy Doctors of the Church, in all generations, ever ſince, have celebrated, as moſt reverend, ſacred, inviola<g ref="char:EOLhyphen"/>ble; it is no other then all the whole Chriſtian world, excepting one ſmal handful of our neighbours, (whoſe con<g ref="char:EOLhyphen"/>dition denyed them the oportunity of this government) is known to enjoy without contradiction: How ſafe is it erring in ſuch company? If my offence be in my pen, which hath (as it could) undertaken the defence of that Apoſtoli<g ref="char:EOLhyphen"/>call inſtitution, (though with all modeſty, and fair reſpects to the Churches differing from us) I cannot deprecate a truth: and ſuch I know this to bee: which is ſince ſo cleared by better hands, that I well hope the better-infor<g ref="char:EOLhyphen"/>med world cannot but ſit downe convinced; Neither doubt I, but that, as metals receive the more luſtre with often rubbing, this truth the more agitation it undergoes, ſhall appeare every day more glorious. Onely may the good ſpirit of the Almighty ſpeedily diſpell all thoſe duskie pre<g ref="char:EOLhyphen"/>judices from the mindes of men, which may hinder them from diſcerning ſo cleare a light.</p>
+            <p>Shortly then, knowing nothing by my ſelfe, whereby I have deſerved to alienate any good heart from mee, I ſhall reſolve to reſt ſecurely upon the acquiting teſtimony of a good conſcience, and the ſecret approbation of my gracious God; who ſhall one day cauſe mine innocence to breake forth as the morning light, and ſhall give mee beauty for bonds, and for a light and momentany affliction, an eternall weight of glory. To ſhut up all, and to ſurceaſe your trou<g ref="char:EOLhyphen"/>ble. I write not this, as one that would pumpe for favour and reputation from the diſaffected multitude, (for I charge you, that what paſſes privately betwixt us, may not fall un<g ref="char:EOLhyphen"/>der common eyes) but onely with this deſire, and intention,
+<pb n="6" facs="tcp:152664:5"/>
+               <!-- PDF PAGE 120 -->to give you true grounds, where you ſhall heare my name mentioned, with a cauſeleſſe offence, to yeeld me a juſt and charitable vindication. Go you on ſtill to do the office of a true friend, yea, the duty of a juſt man; in ſpeaking in the cauſe of the dumb, in righting the innocent, in rectifiing the miſ-guided; and laſtly, the ſervice of a faithfull and Chriſti<g ref="char:EOLhyphen"/>an patriot, in helping the times with the beſt aid of your prayers; which is the daily task of</p>
+            <closer>
+               <dateline>From the Tower, <date>Jan. 24. 1641.</date>
+               </dateline>
+               <signed>Your much devoted, and thankfull friend, <hi>JO: NORVIC.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:152664:5"/>
+            <!-- PDF PAGE 120 -->
+            <head>TO MY RIGHT Reverend good Lord, JOSEPH, Lord Biſhop of NORWICH.</head>
+            <opener>
+               <salute>My very good Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Received, after much entreaty, your meeke and modeſt vindication of your ſelfe; I pre<g ref="char:EOLhyphen"/>tended want of ſatisfaction concerning ſome late actions of your Lordſhips, but now I muſt tell you, and the world together, I was fully convinced of your deſert and in<g ref="char:EOLhyphen"/>tegrity, before, and this my requeſt was but to draw from your Lordſhip ſuch a declaration of your ſelfe, as might convince others, by my divulging it abroad. But of this you have now ſent me, I muſt ſay as not more a friend to you then truth, you have not done your ſelfe right; you have not followed your cauſe halfe throughly: and therefore give me leave (for I will take it) a little more to betray you to the eyes of men, and more openly to bewail your baſh<g ref="char:EOLhyphen"/>full innocence.</p>
+            <p>I cannot without a vocall compaſſion behold your inju<g ref="char:EOLhyphen"/>red vertue, the moſt remarkable example of the malignitie of our times; which when I looked it ſhould receive its crowne from God and men, quite contrary to my expecta<g ref="char:EOLhyphen"/>tion, I finde caſt downe, and trampled in the duſt.</p>
+            <p>It is not full two yeares agoe, when in that innovating
+<pb n="8" facs="tcp:152664:6"/>
+               <!-- PDF PAGE 121 -->age you ſuffered under ſtormes and threats from over-buſie inſtruments: every ſtep waited on by intrapping ſpies and informers; and brought ſo far into the month of dan<g ref="char:EOLhyphen"/>ger, that that <hi>Accuſer, Kilvert,</hi> durſt openly threaten you, to be the next man deſigned for his Inquiſition. How of<g ref="char:EOLhyphen"/>ten have you ſtood as a ſhield betweene thoſe men and danger, who can now complain you are a Biſhop; when, if you had not beene ſo, where had they been at this houre? How many of thoſe Antiprelaticall men, even the moſt rigid of them, have we heard bleſſing God for ſuch a Dio<g ref="char:EOLhyphen"/>ceſan, by whoſe proviſion and government, great hath beene the company of Preachers, and acknowledging the Sunne of the Goſpell, with your approach, ſetting in your Weſtern Sea; or rather riſing there, in more perfect luſtre, when the world juſtly complained it went downe in ſome other parts of the Kingdome? What prayers, what praiſes, what wiſhes were then, on all ſides, poured out for you? I ſhould be accounted your flatterer, ſhould I but mention them: Whereas now in theſe dayes of Re<g ref="char:EOLhyphen"/>formation, when you might juſtly expect a reward of your former ſufferings, as deſerving (let me conſidently ſpeake it) the greateſt ſhare, I ſee you as much driven at, on the other ſide, by an ignorant fury of thoſe you defended, and ſmarting as an enemy to that truth, the maintaining of which hath raiſed againſt you ſo many dangerous adverſa<g ref="char:EOLhyphen"/>ries. I finde you ſtill the ſame man you were before; and yet, what is ſtrange, groaning under the ſame burthen of cenſure, and worſe, from quite contrary hands; even from thoſe, whoſe duty it is to promote and vindicate you; and yet who think they doe that very truth you maintain good ſervice, in puniſhing you its defender. A miſerably miſgui<g ref="char:EOLhyphen"/>ded zeale! <hi>Father for give them, for they know not what they doe.</hi> In the meane time, what have they to anſwer for, who when they can finde no real blemiſh upon you, dare like the Romiſh Imagers in Q. <hi>Maries</hi> dayes, paint fiends &amp; faults upon your coat; as thoſe cunningly-cruell men, in the Primitive times, cloathing the harmleſſe Chriſtian
+<pb n="9" facs="tcp:152664:6"/>
+               <!-- PDF PAGE 121 -->Martyrs with the skins of ſalvage Bears and Bulls, that they might be baited, and torne by the deceived Maſtiffes, which would have fawned upon them, had they appeared in their owne ſhapes: But I forbeare; Onely this, my Lord, if you thus ſink, and ſuffer under evill and killing tongues, happy, thrice happy are you; you know one hath ſaid it, that will make it good: I ſhall not, I ſeriouſly profeſſe, pitie, but envie you, for having this eternall ho<g ref="char:EOLhyphen"/>nour to expire among ſcoffes, and unjuſt ignominy, with our great Maſter. And therefore now, rouze up thoſe droo<g ref="char:EOLhyphen"/>ping ſpirits, which age and reſtleſſe labours have left you; fixe your eyes ſtedfaſtly, with bleſſed <hi>Stephen,</hi> upon hea<g ref="char:EOLhyphen"/>ven, and reſt your thoughts there, as no doubt you doe, with a calme and ſmiling confidence; and know, every ſtone is throwne at you, ſhall turne a precious one, to deck your crowne of glory. Into the boſome of our gracious God, whom we have thus long ſerved, and enjoyed toge<g ref="char:EOLhyphen"/>ther, I ſecurely commend you; And, till I meete you in ano<g ref="char:EOLhyphen"/>ther world, however this world judge of you, ſhall con<g ref="char:EOLhyphen"/>tinue a conſtant lover of your tryed goodneſſe.</p>
+            <closer>
+               <dateline>
+                  <date>Jan. 29. 1641.</date>
+               </dateline>
+               <signed>H. S.</signed>
+            </closer>
+            <pb facs="tcp:152664:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 122 -->
+            <pb facs="tcp:152664:7"/>
+            <!-- PDF PAGE 122 -->
+         </div>
+      </body>
+   </text>
+</TEI>
